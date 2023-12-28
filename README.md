@@ -1,6 +1,7 @@
 This project creates a user-friendly AI chatbot that can answer questions based on a provided dataset of text documents. It leverages cutting-edge language models and vector-based indexing to achieve efficient and relevant responses.
 
-**Key components and features:**  
+##**Key components and features:**  
+
 
 **LLM Integration**: Harnesses the power of OpenAI's text-ada-001 model for advanced language understanding and response generation.  
 
@@ -9,7 +10,7 @@ This project creates a user-friendly AI chatbot that can answer questions based 
 **User-Friendly Interface**: Gradio provides a simple and intuitive web interface for interacting with the chatbot, making it accessible to users of all levels.
 
 
-**Key functionalities:**  
+##**Key functionalities:**  
 
 **Index Creation:** Processes a dataset of text documents and constructs a vector index, enabling semantic search and retrieval.  
 
