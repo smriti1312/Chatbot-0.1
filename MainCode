@@ -68,7 +68,7 @@ def answer(question):
     print("respone fed")
     return response
 
-response = answer("Dell")
+response = answer("Cuba")
 
 print(response)
 
