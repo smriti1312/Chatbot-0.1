@@ -7,7 +7,9 @@ This project creates a user-friendly AI chatbot that can answer questions based 
 
 **Vector Indexing**: Employs Llama-Index for efficient indexing and retrieval of information from the dataset, enabling fast and accurate query processing.  
 
-**User-Friendly Interface**: Gradio provides a simple and intuitive web interface for interacting with the chatbot, making it accessible to users of all levels.
+**User-Friendly Interface**: Gradio provides a simple and intuitive web interface for interacting with the chatbot, making it accessible to users of all levels.  
+
+  
 
 
 **_Key functionalities:_**
