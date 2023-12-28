@@ -10,7 +10,7 @@ This project creates a user-friendly AI chatbot that can answer questions based 
 **User-Friendly Interface**: Gradio provides a simple and intuitive web interface for interacting with the chatbot, making it accessible to users of all levels.
 
 
-##Key functionalities:
+**_Key functionalities:_**
 
 **Index Creation:** Processes a dataset of text documents and constructs a vector index, enabling semantic search and retrieval.  
 
