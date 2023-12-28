@@ -1,6 +1,6 @@
 This project creates a user-friendly AI chatbot that can answer questions based on a provided dataset of text documents. It leverages cutting-edge language models and vector-based indexing to achieve efficient and relevant responses.
 
-##**Key components and features:**  ##
+** ##Key components and features: ##**  
 
 
 **LLM Integration**: Harnesses the power of OpenAI's text-ada-001 model for advanced language understanding and response generation.  
